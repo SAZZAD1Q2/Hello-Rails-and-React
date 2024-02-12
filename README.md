@@ -26,11 +26,11 @@
 
 
 
-# 📖  BudgetMate <a name="BudgetMate"></a>
+# 📖  BudgetMate <a name="Hello-Rails-and-React"></a>
 
-> It is a BudgetMate project. I make this step by step using Ruby on Rails.
+> It is a Hello-Rails-and-React project. I make this step by step using Ruby on Rails.
 
-**BudgetMate ** is a Microverse assined project. In this project I will apply Rails step by step.
+**Hello-Rails-and-React ** is a Microverse assined project. In this project I will apply Rails step by step.
 
 ## 🛠 Built With <a name="built-with"></a>
 <li>Ruby</li>
@@ -85,7 +85,7 @@ Browser
 
 ### Setup
 
-Clone this repository to your desired folder: https://github.com/SAZZAD1Q2/BudgetMate.git
+Clone this repository to your desired folder: https://github.com/SAZZAD1Q2/Hello-Rails-and-React.git
 Opent it to your code editor
 open it then to your browser.
 
